@@ -1,2 +1,2 @@
 # Super-Store-Sales
-Super_Store_Sales_Dashboard
+Dashboard creation using Power BI
