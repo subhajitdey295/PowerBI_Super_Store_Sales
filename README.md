@@ -1,4 +1,5 @@
 # Super-Store-Sales-Dashboard-Using-PowerBI
+![Super Store Sales Dashboard](https://github.com/subhajitdey295/PowerBI_Super_Store_Sales/assets/73297451/8451e0cf-9da7-479a-a124-08d3e0867fcd)
 
 Objective:
 Empower the owner of the Super Store with a data-driven dashboard for online sales tracking and analysis. This tool leverages time series analysis to deliver valuable insights and accurate sales forecasts.
